@@ -1,0 +1,15 @@
+# Entornos y cachés
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datos y archivos temporales
+data/*.tmp
+.DS_Store
+Thumbs.db
+.env
+

@@ -1,0 +1,8 @@
+La inteligencia artificial está transformando múltiples industrias al permitir
+la automatización de tareas, el análisis avanzado de datos y la generación de
+contenido. Los modelos de lenguaje grandes (LLMs) facilitan la interacción
+natural entre humanos y máquinas, soportando casos de uso como resumen de texto,
+clasificación, extracción de información y asistencia en documentación técnica.
+La ejecución local con herramientas como Ollama ofrece privacidad, control y
+costos reducidos frente a servicios en la nube.
+
