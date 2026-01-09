@@ -77,12 +77,12 @@
 - Inicia Jupyter:
   - `jupyter notebook`
 - Abre los cuadernos en la carpeta `notebooks` en orden:
-  - 01_introduccion_llm_y_ollama.ipynb
-  - 02_instalacion_y_descarga_modelos.ipynb
-  - 03_inferencia_basica_con_python.ipynb
-  - 04_prompt_engineering.ipynb
-  - 05_ejemplos_de_uso_practico.ipynb
-  - 06_caso_aplicado_data_science.ipynb
+  - [01_introduccion_llm_y_ollama.ipynb](notebooks/01_introduccion_llm_y_ollama.ipynb)
+  - [02_instalacion_y_descarga_modelos.ipynb](notebooks/02_instalacion_y_descarga_modelos.ipynb)
+  - [03_inferencia_basica_con_python.ipynb](notebooks/03_inferencia_basica_con_python.ipynb)
+  - [04_prompt_engineering.ipynb](notebooks/04_prompt_engineering.ipynb)
+  - [05_ejemplos_de_uso_practico.ipynb](notebooks/05_ejemplos_de_uso_practico.ipynb)
+  - [06_caso_aplicado_data_science.ipynb](notebooks/06_caso_aplicado_data_science.ipynb)
 
 ## Casos de uso
 - Resumen automático de texto, clasificación, extracción de información, reescritura de contenido.
